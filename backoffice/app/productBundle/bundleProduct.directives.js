@@ -1,1 +1,0 @@
-var BundleProductDirectives = angular.module('aq.bundleProduct.directives', []);
